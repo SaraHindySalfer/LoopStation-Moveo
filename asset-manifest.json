@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/LoopStation-Moveo/static/css/main.48540394.chunk.css",
+    "main.js": "/LoopStation-Moveo/static/js/main.528904ff.chunk.js",
+    "main.js.map": "/LoopStation-Moveo/static/js/main.528904ff.chunk.js.map",
+    "runtime-main.js": "/LoopStation-Moveo/static/js/runtime-main.adf20f99.js",
+    "runtime-main.js.map": "/LoopStation-Moveo/static/js/runtime-main.adf20f99.js.map",
+    "static/js/2.bad37b56.chunk.js": "/LoopStation-Moveo/static/js/2.bad37b56.chunk.js",
+    "static/js/2.bad37b56.chunk.js.map": "/LoopStation-Moveo/static/js/2.bad37b56.chunk.js.map",
+    "static/js/3.043978ca.chunk.js": "/LoopStation-Moveo/static/js/3.043978ca.chunk.js",
+    "static/js/3.043978ca.chunk.js.map": "/LoopStation-Moveo/static/js/3.043978ca.chunk.js.map",
+    "index.html": "/LoopStation-Moveo/index.html",
+    "static/css/main.48540394.chunk.css.map": "/LoopStation-Moveo/static/css/main.48540394.chunk.css.map",
+    "static/js/2.bad37b56.chunk.js.LICENSE.txt": "/LoopStation-Moveo/static/js/2.bad37b56.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/LoopStation-Moveo/static/media/1.31832573.jpg",
+    "static/media/120_stutter_breakbeats_16.mp3": "/LoopStation-Moveo/static/media/120_stutter_breakbeats_16.37c82282.mp3",
+    "static/media/2.jpg": "/LoopStation-Moveo/static/media/2.64ee86b7.jpg",
+    "static/media/3.jpg": "/LoopStation-Moveo/static/media/3.4ee1da70.jpg",
+    "static/media/4.jpg": "/LoopStation-Moveo/static/media/4.74d8a929.jpg",
+    "static/media/5.jpg": "/LoopStation-Moveo/static/media/5.4c222989.jpg",
+    "static/media/6.jpg": "/LoopStation-Moveo/static/media/6.d9d930d5.jpg",
+    "static/media/7.jpg": "/LoopStation-Moveo/static/media/7.90fc9ca4.jpg",
+    "static/media/8.jpg": "/LoopStation-Moveo/static/media/8.4eed3a8b.jpg",
+    "static/media/App.css": "/LoopStation-Moveo/static/media/87540.c38cb880.jpg",
+    "static/media/9.jpg": "/LoopStation-Moveo/static/media/9.cfd5e6f0.jpg",
+    "static/media/Bass Warwick heavy funk groove on E 120 BPM.mp3": "/LoopStation-Moveo/static/media/Bass Warwick heavy funk groove on E 120 BPM.52c24c81.mp3",
+    "static/media/FUD_120_StompySlosh.mp3": "/LoopStation-Moveo/static/media/FUD_120_StompySlosh.27bdc145.mp3",
+    "static/media/GrooveB_120bpm_Tanggu.mp3": "/LoopStation-Moveo/static/media/GrooveB_120bpm_Tanggu.3e1411b4.mp3",
+    "static/media/MazePolitics_120_Perc.mp3": "/LoopStation-Moveo/static/media/MazePolitics_120_Perc.2d08c654.mp3",
+    "static/media/PAS3GROOVE1.03B.mp3": "/LoopStation-Moveo/static/media/PAS3GROOVE1.03B.f77c6da4.mp3",
+    "static/media/SilentStar_120_Em_OrganSynth.mp3": "/LoopStation-Moveo/static/media/SilentStar_120_Em_OrganSynth.f2d668af.mp3",
+    "static/media/electric guitar coutry slide 120bpm - B.mp3": "/LoopStation-Moveo/static/media/electric guitar coutry slide 120bpm - B.230fcab8.mp3",
+    "static/media/future_funk_beats.mp3": "/LoopStation-Moveo/static/media/future_funk_beats.5eb417fc.mp3",
+    "static/media/stereo.jpg": "/LoopStation-Moveo/static/media/stereo.247c5682.jpg",
+    "static/media/צילום מסך 2021-12-10 021844.jpg": "/LoopStation-Moveo/static/media/צילום מסך 2021-12-10 021844.53bf8822.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf20f99.js",
+    "static/js/2.bad37b56.chunk.js",
+    "static/css/main.48540394.chunk.css",
+    "static/js/main.528904ff.chunk.js"
+  ]
+}
