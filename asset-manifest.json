@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LoopStation-Moveo/static/css/main.48540394.chunk.css",
-    "main.js": "/LoopStation-Moveo/static/js/main.1c88d817.chunk.js",
-    "main.js.map": "/LoopStation-Moveo/static/js/main.1c88d817.chunk.js.map",
+    "main.js": "/LoopStation-Moveo/static/js/main.b502b0dc.chunk.js",
+    "main.js.map": "/LoopStation-Moveo/static/js/main.b502b0dc.chunk.js.map",
     "runtime-main.js": "/LoopStation-Moveo/static/js/runtime-main.432055c4.js",
     "runtime-main.js.map": "/LoopStation-Moveo/static/js/runtime-main.432055c4.js.map",
     "static/js/2.abedeebc.chunk.js": "/LoopStation-Moveo/static/js/2.abedeebc.chunk.js",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.432055c4.js",
     "static/js/2.abedeebc.chunk.js",
     "static/css/main.48540394.chunk.css",
-    "static/js/main.1c88d817.chunk.js"
+    "static/js/main.b502b0dc.chunk.js"
   ]
 }
