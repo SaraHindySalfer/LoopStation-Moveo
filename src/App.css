@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  width: 100%;
+  background: url('./assets/images/87540.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: hidden;
+  
 }
 
 .App-logo {

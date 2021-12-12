@@ -1,0 +1,12 @@
+.allPads{
+    width: 30%;
+    padding-bottom: 30%;
+    margin:0 auto;
+    margin-top: 12%;
+    overflow: hidden;
+}
+h1{
+    color: white;
+    font-weight: bolder;
+    text-shadow: 0 0 8px rgb(221, 218, 218);
+}

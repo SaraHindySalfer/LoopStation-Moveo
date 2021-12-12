@@ -1,0 +1,41 @@
+.buttons{
+    align-items: center;
+    width: 10vh;
+    height: 10vh;
+    position: center;
+}
+.buttons.stop{
+    float: right;
+}
+.buttons.start{
+    float: left;
+}
+.content{
+    display: inline-block;
+    vertical-align: middle;
+}
+.buttons::before{
+    transform: scale(1.2);
+    box-shadow: 0 0 15px #d30046;
+    filter: blur(3px);
+}
+
+.buttons:hover ::before{
+    color: #ff0263;
+    box-shadow: 0 0 15px #d30046;
+    text-shadow: 0 0 15px #d30046;
+}
+.buttons:hover{
+    color: #ff0263;
+    box-shadow: 0 0 15px #d30046;
+    text-shadow: 0 0 15px #d30046;
+}
+
+.loop-buttons{
+    width: 30vh;
+    height: 10vh;
+    background-color: none;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+}

@@ -1,0 +1,78 @@
+.square{
+    width: 30%;
+    padding-bottom: 30%;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    margin:1.66%;
+    display: 'flex';
+    align-items: 'center';
+    justify-content: 'center';
+    cursor:pointer;
+    border-radius: 10%;
+}
+.square:hover{
+    background: #e5e5e5;
+    outline: none;
+    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+    -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+
+.a-pulse {
+    --animdur: 1s;
+    --animn: pulse;
+    will-change: transform;
+    }
+[data-animation] {
+    animation: var(--animn, none) var(--animdur, 0s) var(--animtf, linear) var(--animdel, 0s) var(--animic, infinite) var(--animdir, alternate) var(--animfm, none) var(--animps, running);
+    }
+
+        /* STATE */
+    [data-animation-pause]:checked ~ [data-animation] {
+        --animps: paused;
+        }
+
+        /* KEYFRAMES */
+        @keyframes opacity {
+            0% {
+              opacity: 1;
+            }
+            50% {
+              opacity: 0.6;
+            }
+            100% {
+              opacity: 1;
+            }
+          }
+          @keyframes pulse {
+            0% {
+              transform: scale(1);
+            }
+            25% {
+              transform: scale(.9);
+            }
+            50% {
+              transform: scale(1);
+            }
+            75% {
+              transform: scale(1.1);
+            }
+            100% {
+              transform: scale(1);
+            }
+          }
+.pad{
+    position: absolute;
+    color: whitesmoke;
+    top: 0; bottom: 0; left: 0; right: 0;
+    margin: auto;
+    height: 20%;
+}
+
+h5{
+  margin: 0;
+  text-align:center;
+  font-size: 1vw !important
+}
+
+
