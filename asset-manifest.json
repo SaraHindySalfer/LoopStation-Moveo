@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/LoopStation-Moveo/static/css/main.48540394.chunk.css",
-    "main.js": "/LoopStation-Moveo/static/js/main.528904ff.chunk.js",
-    "main.js.map": "/LoopStation-Moveo/static/js/main.528904ff.chunk.js.map",
-    "runtime-main.js": "/LoopStation-Moveo/static/js/runtime-main.adf20f99.js",
-    "runtime-main.js.map": "/LoopStation-Moveo/static/js/runtime-main.adf20f99.js.map",
-    "static/js/2.bad37b56.chunk.js": "/LoopStation-Moveo/static/js/2.bad37b56.chunk.js",
-    "static/js/2.bad37b56.chunk.js.map": "/LoopStation-Moveo/static/js/2.bad37b56.chunk.js.map",
-    "static/js/3.043978ca.chunk.js": "/LoopStation-Moveo/static/js/3.043978ca.chunk.js",
-    "static/js/3.043978ca.chunk.js.map": "/LoopStation-Moveo/static/js/3.043978ca.chunk.js.map",
+    "main.js": "/LoopStation-Moveo/static/js/main.1c88d817.chunk.js",
+    "main.js.map": "/LoopStation-Moveo/static/js/main.1c88d817.chunk.js.map",
+    "runtime-main.js": "/LoopStation-Moveo/static/js/runtime-main.432055c4.js",
+    "runtime-main.js.map": "/LoopStation-Moveo/static/js/runtime-main.432055c4.js.map",
+    "static/js/2.abedeebc.chunk.js": "/LoopStation-Moveo/static/js/2.abedeebc.chunk.js",
+    "static/js/2.abedeebc.chunk.js.map": "/LoopStation-Moveo/static/js/2.abedeebc.chunk.js.map",
+    "static/js/3.ce8e315d.chunk.js": "/LoopStation-Moveo/static/js/3.ce8e315d.chunk.js",
+    "static/js/3.ce8e315d.chunk.js.map": "/LoopStation-Moveo/static/js/3.ce8e315d.chunk.js.map",
     "index.html": "/LoopStation-Moveo/index.html",
     "static/css/main.48540394.chunk.css.map": "/LoopStation-Moveo/static/css/main.48540394.chunk.css.map",
-    "static/js/2.bad37b56.chunk.js.LICENSE.txt": "/LoopStation-Moveo/static/js/2.bad37b56.chunk.js.LICENSE.txt",
+    "static/js/2.abedeebc.chunk.js.LICENSE.txt": "/LoopStation-Moveo/static/js/2.abedeebc.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/LoopStation-Moveo/static/media/1.31832573.jpg",
     "static/media/120_stutter_breakbeats_16.mp3": "/LoopStation-Moveo/static/media/120_stutter_breakbeats_16.37c82282.mp3",
     "static/media/2.jpg": "/LoopStation-Moveo/static/media/2.64ee86b7.jpg",
@@ -35,9 +35,9 @@
     "static/media/צילום מסך 2021-12-10 021844.jpg": "/LoopStation-Moveo/static/media/צילום מסך 2021-12-10 021844.53bf8822.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.adf20f99.js",
-    "static/js/2.bad37b56.chunk.js",
+    "static/js/runtime-main.432055c4.js",
+    "static/js/2.abedeebc.chunk.js",
     "static/css/main.48540394.chunk.css",
-    "static/js/main.528904ff.chunk.js"
+    "static/js/main.1c88d817.chunk.js"
   ]
 }
